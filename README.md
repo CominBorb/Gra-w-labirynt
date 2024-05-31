@@ -8,8 +8,8 @@
 3. Poza JDK nie potrzebne są żadne dodatkowe paczki ani biblioteki.
 4. Przykładowy labirynt
 5 5
-###$#
-.....
-#.#.#
-#.###
-#..@#
+###$# &nbsp;
+..... &nbsp;
+#.#.# &nbsp;
+#.### &nbsp;
+#..@# &nbsp;
